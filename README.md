@@ -1,10 +1,10 @@
 # Real-Time Biddng for Display Advertising
-[Link](https://www.kaggle.com/yongjunlee/realtime-bidding)
-Handle real-time bidding data using keras
+[Handle real-time bidding data using keras](https://www.kaggle.com/yongjunlee/realtime-bidding)
+
 
 # Data Source
-[Kaggle](https://www.kaggle.com/zurfer/rtb)
-Predict clicks and handle imbalanced data
+[Predict clicks and handle imbalanced data](https://www.kaggle.com/zurfer/rtb)
+
 
 # Instructor
 [Futurelab](https://futurelab.creatorlink.net/)
