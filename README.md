@@ -1,5 +1,5 @@
 # Real-Time Biddng for Display Advertising
-[Handle real-time bidding data using keras](https://www.kaggle.com/yongjunlee/realtime-bidding)
+Handle real-time bidding data using keras
 
 
 # Data Source
